@@ -1,4 +1,4 @@
-## Hi, I'm Alvin :call_me_hand: :man_technologist: 
+# <p align="center"> Hi, I'm Alvin :call_me_hand: :man_technologist: </p>
 <a><img align="left" width="110" height="110" src="https://github.com/mataruzz/mataruzz/blob/main/GIF/robot-hi-robot.gif"></a> 
 <p align="center"> <br> <br> 
 Welcome to my Github. You are the  <img src="https://profile-counter.glitch.me/mataruzz/count.svg" width = "150" height="18"/>  visitor! Enjoy the visit :wink:
