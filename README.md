@@ -6,7 +6,7 @@ Welcome to my Github. You are the  <img src="https://profile-counter.glitch.me/m
 
 ### :speech_balloon: About me: 
 I'm a Robotic engineer who is passionate about exploring new technologies. In 2022, I spent 8 months in Los Angeles, where I enjoyed working on a new localizaion system using Ultra-WideBand (UWB), in combination with Machine Learning. 
-- 🔭 I’m currently working on ROS for robot ARM on AGV 
+- 🎯 I’m currently working on ROS for robot ARM on AGV 
 <br />
 
 
