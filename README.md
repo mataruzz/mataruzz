@@ -16,12 +16,12 @@ I'm a Robotic engineer who is passionate about exploring new technologies. In 20
 ![Python](https://img.shields.io/badge/-Python-gold?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Docker](https://img.shields.io/badge/-Docker-ECF0F1?style=flat-square&logo=docker)
+![ROS](https://img.shields.io/badge/-ROS-grey?style=flat-square&logo=ROS)
+![RViz](https://img.shields.io/badge/-RViz-1DA4FF?style=flat-square&logo=RViz)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-F4F6F6?style=flat-square&logo=Tensorflow)
-![ROS](https://img.shields.io/badge/-ROS-grey?style=flat-square&logo=ROS)
-![RViz](https://img.shields.io/badge/-RViz-1DA4FF?style=flat-square&logo=RViz)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 </div>
