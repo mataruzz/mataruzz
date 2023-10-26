@@ -26,7 +26,6 @@ Robotic engineer passionate about cutting-edge technology. In 2022, I spent 8 mo
 <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" style="height:25px;"/>
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" style="height:25px;"/>
 <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" style="height:25px;"/>
-<img alt="Tensorflow" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height:25px;"/>
 <img alt="RaspberryPi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" style="height:25px;"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="height:25px;"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:25px;"/>
