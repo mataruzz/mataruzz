@@ -6,7 +6,7 @@
 Welcome to my Github. You are the  <img src="https://profile-counter.glitch.me/mataruzz/count.svg" width = "150" height="18"/>  visitor! Enjoy the visit :wink:
 </p> <br> 
 
-### :speech_balloon: About me: 
+### 💬 About me: 
 Robotic engineer passionate about cutting-edge technology. In 2022, I spent 8 months in Los Angeles, working on an innovative localization system using Ultra-WideBand (UWB) and machine learning. After graduating, I enthusiastically joined [Automationware](https://automationware.it/) as an R&D robotic engineer, where I actively participate in innovative robotics research and development projects.
 
 - 🎯 Currently, I'm workin on ROS2, tackling challenges in mobile robots (AGVs) and robotic arms. 
@@ -14,7 +14,7 @@ Robotic engineer passionate about cutting-edge technology. In 2022, I spent 8 mo
 
 <br />
 
-### :zap: Technologies:
+### ⚡ Technologies:
 <div align="center">
   
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height:25px;"/>
@@ -36,7 +36,7 @@ Robotic engineer passionate about cutting-edge technology. In 2022, I spent 8 mo
 </div>
 <br> 
 
-### :coffee: Get in touch:
+### ☕ Get in touch:
 <div align="center">
   
 <a alt="Linkedin" href="https://www.linkedin.com/in/alvin-matarozzo-21439b202/"><img src="https://img.shields.io/badge/-Alvin_Matarozzo-blue?style=flat-square&logo=Linkedin&logoColor=white" style="height: 25px;"></a>
